@@ -1,4 +1,4 @@
 # invie
 Las guitarras más locas
 
-http://deoxyx182.github.io/invie
+http://deoxyx182.github.io/invie-github
